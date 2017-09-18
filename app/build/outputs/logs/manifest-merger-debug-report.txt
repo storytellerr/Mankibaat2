@@ -1,0 +1,291 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:5:5-44:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/storytellerr/.android/build-cache/cca035568085fa7bea9ec71e51ccbc2e0955ba52/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /home/storytellerr/.android/build-cache/147589ff814278d1b911b926bfa67888cd9023a4/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/storytellerr/.android/build-cache/43b3e0468872dfa2801578fcef35ccc4433bf685/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/storytellerr/.android/build-cache/d5bce388721ae2bbfeb66c95c5ee2bc4afa1ff30/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/storytellerr/.android/build-cache/862bd21e2593b3f1ecb81c4dc8091755d3c39d7f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/storytellerr/.android/build-cache/c84367fa3932d962b50312bbefa28fac73012e3c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/storytellerr/.android/build-cache/5a1f3deebe9cdc448b011cd3e7ca34fa0a0cbd96/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/storytellerr/.android/build-cache/6584cee9a8539d3f9176db9d2a510ca3a7800f27/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/storytellerr/.android/build-cache/1fb6c1fa8db2537b4e6c16e653fd73bc67fac170/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/storytellerr/.android/build-cache/b857a9e31a3e869e2a13283fe35c3fbb88b58d0a/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/storytellerr/.android/build-cache/6930deaf558435266681a571c5ef10f1300979bd/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/storytellerr/.android/build-cache/0e42a002f37bceecd7e4c6744cc26372bda9a0b7/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/storytellerr/.android/build-cache/5c0404a5b98f9996e5b38e77e863bba7deccebb1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/storytellerr/.android/build-cache/d37b9c99cb4cce906b0ee6e1b746fad13a1945a4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/storytellerr/.android/build-cache/2055b79267b21232fd8ffc7757a8572311cf360f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/storytellerr/.android/build-cache/5d1aeb2e0321904f69666600264a947ddd400f9e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/storytellerr/.android/build-cache/cfcb0b36733dbd1d73315e86b7b4df194ecb53bd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/storytellerr/.android/build-cache/155afc845b3ff330c1eda108fc775009b0571929/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.storytellerr.mankibaat.app.src.main.java.com.example.storytellerr.mankibaat.LoginActivity
+ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:12:9-15:20
+	android:theme
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:13:13-95
+activity#com.example.storytellerr.mankibaat.app.src.main.java.com.example.storytellerr.mankibaat.MainActivity
+ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:label
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:18:13-59
+	android:theme
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:17:13-94
+activity#com.example.storytellerr.mankibaat.app.src.main.java.com.example.storytellerr.mankibaat.SignupActivity
+ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:23:9-26:59
+	android:label
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:25:13-57
+	android:theme
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:24:13-96
+activity#com.example.storytellerr.mankibaat.app.src.main.java.com.example.storytellerr.mankibaat.ResetPasswordActivity
+ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:27:9-30:59
+	android:label
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:29:13-66
+	android:theme
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:28:13-103
+activity#com.example.storytellerr.mankibaat.app.src.main.java.com.example.storytellerr.mankibaat.Upload
+ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:31:9-34:20
+	android:name
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:31:19-94
+activity#com.example.storytellerr.mankibaat.app.src.main.java.com.example.storytellerr.mankibaat.Splashscreen
+ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:theme
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:36:19-62
+	android:name
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:35:19-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml:40:27-74
+uses-sdk
+INJECTED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/storytellerr/.android/build-cache/cca035568085fa7bea9ec71e51ccbc2e0955ba52/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /home/storytellerr/.android/build-cache/147589ff814278d1b911b926bfa67888cd9023a4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/storytellerr/.android/build-cache/43b3e0468872dfa2801578fcef35ccc4433bf685/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/storytellerr/.android/build-cache/d5bce388721ae2bbfeb66c95c5ee2bc4afa1ff30/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/storytellerr/.android/build-cache/862bd21e2593b3f1ecb81c4dc8091755d3c39d7f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/storytellerr/.android/build-cache/c84367fa3932d962b50312bbefa28fac73012e3c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/storytellerr/.android/build-cache/e97430bf721e59775e06e2792dc43889b4fbbd77/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/storytellerr/.android/build-cache/5a1f3deebe9cdc448b011cd3e7ca34fa0a0cbd96/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:11.0.4] /home/storytellerr/.android/build-cache/9e076f40942cca8edf96682d7b588210f42697c3/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /home/storytellerr/.android/build-cache/d548eec7e80c4c7ac4228cce7b50caeddb590866/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /home/storytellerr/.android/build-cache/46782b4a14168a773cd49bc1f8329dfb5233e631/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /home/storytellerr/.android/build-cache/f3764a444032181d6b3d5379214789ab7f095375/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/storytellerr/.android/build-cache/6584cee9a8539d3f9176db9d2a510ca3a7800f27/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/storytellerr/.android/build-cache/1fb6c1fa8db2537b4e6c16e653fd73bc67fac170/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/storytellerr/.android/build-cache/b857a9e31a3e869e2a13283fe35c3fbb88b58d0a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/storytellerr/.android/build-cache/6930deaf558435266681a571c5ef10f1300979bd/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/storytellerr/.android/build-cache/0e42a002f37bceecd7e4c6744cc26372bda9a0b7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/storytellerr/.android/build-cache/5c0404a5b98f9996e5b38e77e863bba7deccebb1/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/storytellerr/.android/build-cache/d37b9c99cb4cce906b0ee6e1b746fad13a1945a4/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/storytellerr/.android/build-cache/2055b79267b21232fd8ffc7757a8572311cf360f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/storytellerr/.android/build-cache/5d1aeb2e0321904f69666600264a947ddd400f9e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/storytellerr/.android/build-cache/cfcb0b36733dbd1d73315e86b7b4df194ecb53bd/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/storytellerr/.android/build-cache/155afc845b3ff330c1eda108fc775009b0571929/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/storytellerr/.android/build-cache/d5bce388721ae2bbfeb66c95c5ee2bc4afa1ff30/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/storytellerr/.android/build-cache/43b3e0468872dfa2801578fcef35ccc4433bf685/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/storytellerr/.android/build-cache/43b3e0468872dfa2801578fcef35ccc4433bf685/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/storytellerr/.android/build-cache/43b3e0468872dfa2801578fcef35ccc4433bf685/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/storytellerr/.android/build-cache/43b3e0468872dfa2801578fcef35ccc4433bf685/output/AndroidManifest.xml:19:19-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/storytellerr/.android/build-cache/d5bce388721ae2bbfeb66c95c5ee2bc4afa1ff30/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/storytellerr/.android/build-cache/862bd21e2593b3f1ecb81c4dc8091755d3c39d7f/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/storytellerr/.android/build-cache/c84367fa3932d962b50312bbefa28fac73012e3c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/storytellerr/.android/build-cache/e97430bf721e59775e06e2792dc43889b4fbbd77/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/storytellerr/.android/build-cache/5a1f3deebe9cdc448b011cd3e7ca34fa0a0cbd96/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/storytellerr/.android/build-cache/5c0404a5b98f9996e5b38e77e863bba7deccebb1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/storytellerr/.android/build-cache/d37b9c99cb4cce906b0ee6e1b746fad13a1945a4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/storytellerr/.android/build-cache/2055b79267b21232fd8ffc7757a8572311cf360f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/storytellerr/.android/build-cache/5d1aeb2e0321904f69666600264a947ddd400f9e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/storytellerr/.android/build-cache/cfcb0b36733dbd1d73315e86b7b4df194ecb53bd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/storytellerr/.android/build-cache/155afc845b3ff330c1eda108fc775009b0571929/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/storytellerr/.android/build-cache/d5bce388721ae2bbfeb66c95c5ee2bc4afa1ff30/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/storytellerr/.android/build-cache/d5bce388721ae2bbfeb66c95c5ee2bc4afa1ff30/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/storytellerr/.android/build-cache/1fb6c1fa8db2537b4e6c16e653fd73bc67fac170/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/storytellerr/.android/build-cache/1fb6c1fa8db2537b4e6c16e653fd73bc67fac170/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/storytellerr/.android/build-cache/1fb6c1fa8db2537b4e6c16e653fd73bc67fac170/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/storytellerr/.android/build-cache/1fb6c1fa8db2537b4e6c16e653fd73bc67fac170/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/storytellerr/.android/build-cache/1fb6c1fa8db2537b4e6c16e653fd73bc67fac170/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/storytellerr/.android/build-cache/ba0b858261883a6dbf7d63025514c1b8dc99690a/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/storytellerr/.android/build-cache/e69fd10338519580b49769cd6b495a12540d8a2b/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /home/storytellerr/.android/build-cache/b857a9e31a3e869e2a13283fe35c3fbb88b58d0a/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/storytellerr/.android/build-cache/b857a9e31a3e869e2a13283fe35c3fbb88b58d0a/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/storytellerr/.android/build-cache/b857a9e31a3e869e2a13283fe35c3fbb88b58d0a/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/storytellerr/.android/build-cache/b857a9e31a3e869e2a13283fe35c3fbb88b58d0a/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/storytellerr/.android/build-cache/b857a9e31a3e869e2a13283fe35c3fbb88b58d0a/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/storytellerr/.android/build-cache/0e42a002f37bceecd7e4c6744cc26372bda9a0b7/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/storytellerr/.android/build-cache/0e42a002f37bceecd7e4c6744cc26372bda9a0b7/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/storytellerr/.android/build-cache/0e42a002f37bceecd7e4c6744cc26372bda9a0b7/output/AndroidManifest.xml:20:20-65

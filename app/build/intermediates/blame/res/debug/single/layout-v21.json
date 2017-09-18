@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

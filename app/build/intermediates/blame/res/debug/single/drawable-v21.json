@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/storytellerr/.android/build-cache/d5bce388721ae2bbfeb66c95c5ee2bc4afa1ff30/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/storytellerr/.android/build-cache/d5bce388721ae2bbfeb66c95c5ee2bc4afa1ff30/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/storytellerr/.android/build-cache/d5bce388721ae2bbfeb66c95c5ee2bc4afa1ff30/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/storytellerr/.android/build-cache/d5bce388721ae2bbfeb66c95c5ee2bc4afa1ff30/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

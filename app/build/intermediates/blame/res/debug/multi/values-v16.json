@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/home/storytellerr/.android/build-cache/7ceba03a715047737ce378811c0f902c13dd8c07/output/res/values-v16/values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/storytellerr/AndroidStudioProjects/Mankibaat2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
